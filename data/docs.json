@@ -1,0 +1,27 @@
+[
+    {
+        "t" : "Vue-es",
+        "d" : "Documentacion de Vue.js en espaoñol",
+        "l" : "https://es.vuejs.org/v2/guide/"
+    },
+    {
+        "t" : "WebPack",
+        "d" : "Manual webpack español",
+        "l" : "https://desarrolloweb.com/manuales/manual-webpack.html"
+    },
+    {
+        "t" : "Materia Desing",
+        "d" : "Guide of material desing by google",
+        "l" : "https://material.io/design/introduction/#principles"
+    },
+    {
+        "t" : "Bootstrap",
+        "d" : "Bootstrap 4 guide of w3schools.com",
+        "l" : "https://www.w3schools.com/bootstrap4/default.asp"
+    },
+    {
+        "t" : "JsonCreator",
+        "d" : "Tool for speed created Json file",
+        "l" : "https://beta5.objgen.com/json/local/design"
+    }
+]
