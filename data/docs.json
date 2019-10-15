@@ -23,5 +23,10 @@
         "t" : "JsonCreator",
         "d" : "Tool for speed created Json file",
         "l" : "https://beta5.objgen.com/json/local/design"
+    },
+    {
+        "t" : "jQuery",
+        "d" : "jQuery guide of w3schools.com",
+        "l" : "https://www.w3schools.com/jquery/"
     }
 ]
