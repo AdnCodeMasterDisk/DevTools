@@ -12,9 +12,14 @@
         "d" : "Tool to convert png to ico",
         "l" : "https://imagen.online-convert.com/es/convertir-a-ico"
     },
-
-    
  
+ 
+    {
+        "t" : "HTML Minifier",
+        "d" : "Tool to compress files",
+        "l" : "https://www.willpeavy.com/tools/minifier/"
+    },
+
     {
         "t" : "Lorem Ipsum",
         "d" : "Tool to generate lorem Ipsum",
