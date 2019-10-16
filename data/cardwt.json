@@ -17,6 +17,12 @@
         "t" : "HTML Minifier",
         "d" : "Tool to compress files",
         "l" : "https://www.willpeavy.com/tools/minifier/"
+    },
+ 
+    {
+        "t" : "Lorem Ipsum",
+        "d" : "Tool to generate lorem Ipsum",
+        "l" : "https://getlorem.com/es/"
     }
 
 ]
