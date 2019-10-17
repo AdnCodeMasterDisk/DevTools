@@ -53,6 +53,12 @@
         "t" : "Material Color",
         "d" : "Tool material setup color",
         "l" : "https://material.io/resources/color/#!/?view.left=0&view.right=0"
+    },
+ 
+    {
+        "t" : "Traductor",
+        "d" : "Google traductor",
+        "l" : "https://translate.google.com/?hl=es"
     }
 
 ]
