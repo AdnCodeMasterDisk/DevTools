@@ -28,5 +28,11 @@
         "t" : "jQuery",
         "d" : "jQuery guide of w3schools.com",
         "l" : "https://www.w3schools.com/jquery/"
+    },
+    
+    {
+        "t": "DataGit",
+        "d": "This is the repository of data files for DevTools",
+        "l": "https://github.com/AdnCodeMasterDisk/DevTools/tree/master/data"
     }
 ]
