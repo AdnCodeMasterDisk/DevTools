@@ -59,6 +59,12 @@
         "t" : "Traductor",
         "d" : "Google traductor",
         "l" : "https://translate.google.com/?hl=es"
+    },
+ 
+    {
+      "t": "Pinterest",
+      "d": "Image boards and inspiration",
+      "l": "https://co.pinterest.com/"
     }
 
 ]
