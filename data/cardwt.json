@@ -83,6 +83,12 @@
       "t": "ColorPalette",
       "d": "Color palette by adobe",
       "l": "https://color.adobe.com/es/create"
+    },
+ 
+     {
+      "t": "spck",
+      "d": "The best Editor web",
+      "l": "https://spck.io/"
     }
 
 ]
