@@ -34,5 +34,11 @@
         "t": "DataGit",
         "d": "This is the repository of data files for DevTools",
         "l": "https://github.com/AdnCodeMasterDisk/DevTools/tree/master/data"
+    },
+    
+    {
+        "t": "Howto",
+        "d": "Code snippets for HTML, CSS and JavaScript.",
+        "l": "https://www.w3schools.com/howto/default.asp"
     }
 ]
