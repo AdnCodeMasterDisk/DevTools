@@ -85,10 +85,15 @@
       "l": "https://color.adobe.com/es/create"
     },
  
-     {
+    {
       "t": "spck",
       "d": "The best Editor web",
       "l": "https://spck.io/"
+    },
+ 
+    {
+      "t": "PugDoc",
+      "d": "Docs and tools pug - jade",
+      "l": "https://adncodemasterdisk.github.io/PugDoc/"
     }
-
 ]
