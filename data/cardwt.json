@@ -95,5 +95,17 @@
       "t": "PugDoc",
       "d": "Docs and tools pug - jade",
       "l": "https://adncodemasterdisk.github.io/PugDoc/"
+    },
+ 
+    {
+      "t": "ColorBox",
+      "d": "Color tool",
+      "l": "http://www.colorbox.io/"
+    },
+ 
+    {
+      "t": "UiGradients",
+      "d": "Gradient tool",
+      "l": "https://uigradients.com/#Lunada"
     }
 ]
