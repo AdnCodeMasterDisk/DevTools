@@ -165,7 +165,13 @@
  
     {
       "t": "InsertPluguin",
-      "d": "Tool for inser html in a pege",
+      "d": "Tool for inser html in a page",
       "l": "https://github.com/orthes/medium-editor-insert-plugin"
+    },
+ 
+    {
+      "t": "popline",
+      "d": "Change test in a page",
+      "l": "http://kenshin54.github.io/popline/"
     }
 ]
