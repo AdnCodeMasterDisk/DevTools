@@ -125,5 +125,47 @@
       "t": "BOOTSTRAP.BUILD",
       "d": "Creator of themes of bootsrap",
       "l": "https://bootstrap.build/app"
+    },
+ 
+    {
+      "t": "Bootstrap Form",
+      "d": "Drag & Drop components bootsrap form",
+      "l": "https://bloggify.github.io/bootstrap-form-builder/"
+    },
+ 
+    {
+      "t": "WebSlider",
+      "d": "Slider tool for web",
+      "l": "https://webslides.tv/#slide=1"
+    },
+ 
+    {
+      "t": "TextEditor",
+      "d": "Repo GitHub of tool for edit taxt and save",
+      "l": "https://webslides.tv/#slide=1"
+    },
+ 
+    {
+      "t": "PaintStrap",
+      "d": "Palette color for bootsrap",
+      "l": "http://paintstrap.com/"
+    },
+ 
+    {
+      "t": "wysihtml",
+      "d": "Edit text in dinamic html",
+      "l": "http://wysihtml.com/"
+    },
+ 
+    {
+      "t": "GridBootstrap",
+      "d": "Tool for create grid bootstrap",
+      "l": "https://transfer.frontwise.com/frontwise/grid-editor/example/"
+    },
+ 
+    {
+      "t": "InsertPluguin",
+      "d": "Tool for inser html in a pege",
+      "l": "https://github.com/orthes/medium-editor-insert-plugin"
     }
 ]
