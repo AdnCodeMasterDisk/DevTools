@@ -113,5 +113,11 @@
       "t": "hexo.io",
       "d": "Blog tool in node.js",
       "l": "https://hexo.io/"
+    },
+ 
+    {
+      "t": "CSSeffectsSnippets",
+      "d": "Hover css styles",
+      "l": "https://emilkowalski.github.io/css-effects-snippets/"
     }
 ]
