@@ -123,7 +123,7 @@
  
     {
       "t": "BOOTSTRAP.BUILD",
-      "d": "Creator of themes of bootsrap",
+      "d": "Creator of themes of bootstrap",
       "l": "https://bootstrap.build/app"
     },
  
@@ -141,7 +141,7 @@
  
     {
       "t": "TextEditor",
-      "d": "Repo GitHub of tool for edit taxt and save",
+      "d": "Repo GitHub of tool for edit text and save",
       "l": "https://webslides.tv/#slide=1"
     },
  
@@ -165,7 +165,7 @@
  
     {
       "t": "InsertPluguin",
-      "d": "Tool for inser html in a page",
+      "d": "Tool for insert html in a page",
       "l": "https://github.com/orthes/medium-editor-insert-plugin"
     },
  
@@ -173,5 +173,17 @@
       "t": "popline",
       "d": "Change test in a page",
       "l": "http://kenshin54.github.io/popline/"
+    },
+ 
+    {
+      "t": "prismjs",
+      "d": "lightweight, extensible syntax highlighter",
+      "l": "https://prismjs.com/#examples"
+    },
+ 
+    {
+      "t": "HighlightJs",
+      "d": "A HighlightJs Copy Code Badge Component",
+      "l": "https://weblog.west-wind.com/posts/2019/Dec/30/A-HighlightJs-Copy-Code-Badge-Component"
     }
 ]
