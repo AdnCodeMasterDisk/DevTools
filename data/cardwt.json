@@ -185,5 +185,23 @@
       "t": "HighlightJs",
       "d": "A HighlightJs Copy Code Badge Component",
       "l": "https://weblog.west-wind.com/posts/2019/Dec/30/A-HighlightJs-Copy-Code-Badge-Component"
+    },
+ 
+    {
+      "t": "Bootsnipp",
+      "d": "Design elements, playground and code snippets for Bootstrap",
+      "l": "https://bootsnipp.com/user"
+    },
+ 
+    {
+      "t": "Snippets",
+      "d": "Bootstrap Snippets",
+      "l": "https://www.tutorialrepublic.com/snippets/gallery.php"
+    },
+ 
+    {
+      "t": "codeply",
+      "d": "Editor and 40,000 code snippets",
+      "l": "https://www.codeply.com"
     }
 ]
