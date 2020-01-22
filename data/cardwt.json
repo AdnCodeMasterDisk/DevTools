@@ -203,5 +203,11 @@
       "t": "codeply",
       "d": "Editor and 40,000 code snippets",
       "l": "https://www.codeply.com"
+    },
+ 
+    {
+      "t": "Bootstrap magic",
+      "d": "Theme creator for bootstrap",
+      "l": "https://pikock.github.io/bootstrap-magic/app/index.html#!/editor"
     }
 ]
