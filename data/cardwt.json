@@ -209,5 +209,11 @@
       "t": "Bootstrap magic",
       "d": "Theme creator for bootstrap",
       "l": "https://pikock.github.io/bootstrap-magic/app/index.html#!/editor"
+    },
+ 
+    {
+      "t": "tailwindtoolbox",
+      "d": "Tailwind Starter Templates",
+      "l": "https://www.tailwindtoolbox.com/starter-templates"
     }
 ]
