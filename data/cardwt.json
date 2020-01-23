@@ -215,5 +215,24 @@
       "t": "tailwindtoolbox",
       "d": "Tailwind Starter Templates",
       "l": "https://www.tailwindtoolbox.com/starter-templates"
+    },
+ 
+     {
+      "t": "UnDraw",
+      "d": "unDraw is like Unsplash but for amazing vector illustrations",
+      "l": "https://undraw.co/illustrations"
+    },
+ 
+     {
+      "t": "Zondicons",
+      "d": "premium SVG icons for use on digital products",
+      "l": "http://www.zondicons.com/"
+    },
+ 
+    {
+      "t": "Entypo",
+      "d": "Social icons",
+      "l": "http://www.entypo.com"
     }
+ 
 ]
