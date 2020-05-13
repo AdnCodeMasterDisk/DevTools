@@ -3,7 +3,8 @@
     {
       "t": "VuePress",
       "d": "Vue blog tool",
-      "l": "https://vuepress.vuejs.org/"
+      "l": "https://vuepress.vuejs.org/",
+      "s": "https://vuepress.vuejs.org/"
     },
 
 ]
