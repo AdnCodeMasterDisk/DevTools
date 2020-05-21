@@ -245,6 +245,11 @@
       "t": "Png",
       "d": "Png images",
       "l": "https://www.pngocean.com/"
-    }
+    },
  
+    {
+      "t": "vecteezy",
+      "d": "Vector images",
+      "l": "https://www.vecteezy.com/"
+    }
 ]
