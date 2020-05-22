@@ -83,5 +83,11 @@
         "t": "Ebook free",
         "d": "Colection free e-book and videos for code developers",
         "l": "https://www.wowebook.co/"
+    },
+    
+    {
+        "t": "Vue examples",
+        "d": "Colection Examples in vue",
+        "l": "https://vuejsexamples.com/"
     }
 ]
