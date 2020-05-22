@@ -71,5 +71,11 @@
         "t": "Tutotiales",
         "d": "Biblioteca de tutoriales de programacion",
         "l": "https://riptutorial.com/"
+    },
+    
+    {
+        "t": "Blog vue",
+        "d": "BBlog of vue.js",
+        "l": "https://madewithvuejs.com/blog"
     }
 ]
