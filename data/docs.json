@@ -75,7 +75,13 @@
     
     {
         "t": "Blog vue",
-        "d": "BBlog of vue.js",
+        "d": "Blog of vue.js",
         "l": "https://madewithvuejs.com/blog"
+    },
+    
+    {
+        "t": "Ebook free",
+        "d": "Colection free e-book and videos for code developers",
+        "l": "https://www.wowebook.co/"
     }
 ]
