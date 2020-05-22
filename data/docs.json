@@ -52,5 +52,24 @@
         "t": "Mobirise",
         "d": "How to create mobirise blocks.",
         "l": "https://witsec.nl/mobirise/gallery/create.php"
+    },
+    
+    {
+        "t": "JavaScript",
+        "d": "Uso, ejemplos y uso completo de javascript (esp)",
+        "l": "https://riptutorial.com/es/javascript"
+    },
+    
+    {
+        "t": "E-book",
+        "d": "Biblioteca de libros sobre programacion",
+        "l": "https://riptutorial.com/es/ebook"
+    },
+    
+    
+    {
+        "t": "Tutotiales",
+        "d": "Biblioteca de tutoriales de programacion",
+        "l": "https://riptutorial.com/"
     }
 ]
