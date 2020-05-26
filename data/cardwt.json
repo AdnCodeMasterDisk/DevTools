@@ -269,5 +269,11 @@
       "t": "Freebies",
       "d": "Recurses of desing",
       "l": "https://freebiefy.com/"
+    },
+ 
+    {
+      "t": "CKEditor",
+      "d": "Rich text editor of tomorrow, available today",
+      "l": "https://ckeditor.com/ckeditor-5/"
     }
 ]
