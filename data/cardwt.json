@@ -275,5 +275,11 @@
       "t": "CKEditor",
       "d": "Rich text editor of tomorrow, available today",
       "l": "https://ckeditor.com/ckeditor-5/"
+    },
+ 
+    {
+      "t": "Material desing",
+      "d": "Google material desin web getting stard",
+      "l": "https://material.io/develop/web/docs/getting-started/"
     }
 ]
