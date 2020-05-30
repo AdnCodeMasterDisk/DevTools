@@ -281,5 +281,11 @@
       "t": "Material desing",
       "d": "Google material desin web getting stard",
       "l": "https://material.io/develop/web/docs/getting-started/"
+    },
+ 
+    {
+      "t": "Material desing vue",
+      "d": "Build beautiful apps with Material Design and Vue.js",
+      "l": "https://vuematerial.io/"
     }
 ]
