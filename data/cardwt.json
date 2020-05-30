@@ -287,5 +287,11 @@
       "t": "Material desing vue",
       "d": "Build beautiful apps with Material Design and Vue.js",
       "l": "https://vuematerial.io/"
+    },
+ 
+    {
+      "t": "Svelte material desing",
+      "d": "Material Design and svelte",
+      "l": "https://sveltematerialui.com/"
     }
 ]
