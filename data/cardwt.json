@@ -293,5 +293,11 @@
       "t": "Svelte material desing",
       "d": "Material Design and svelte",
       "l": "https://sveltematerialui.com/"
+    },
+ 
+    {
+      "t": "Polymer",
+      "d": "Google tool for developer web",
+      "l": "https://www.polymer-project.org/"
     }
 ]
