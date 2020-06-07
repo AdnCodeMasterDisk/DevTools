@@ -299,5 +299,11 @@
       "t": "Polymer",
       "d": "Google tool for developer web",
       "l": "https://www.polymer-project.org/"
+    },
+ 
+    {
+      "t": "Snippets",
+      "d": "Snippets google tools",
+      "l": "https://app.decs.xyz/"
     }
 ]
