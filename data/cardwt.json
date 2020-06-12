@@ -305,5 +305,11 @@
       "t": "Snippets",
       "d": "Snippets google tools",
       "l": "https://app.decs.xyz/"
+    },
+ 
+    {
+      "t": "OpenProjects",
+      "d": "Awesome Open Source",
+      "l": "https://awesomeopensource.com/"
     }
 ]
