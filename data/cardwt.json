@@ -311,5 +311,17 @@
       "t": "OpenProjects",
       "d": "Awesome Open Source",
       "l": "https://awesomeopensource.com/"
+    },
+ 
+    {
+      "t": "Tailwind Toolbox",
+      "d": "Tools for tailwind",
+      "l": "https://www.tailwindtoolbox.com/"
+    },
+ 
+    {
+      "t": "Tailwind Components",
+      "d": "Components for tailwind",
+      "l": "https://tailwindcomponents.com/"
     }
 ]
