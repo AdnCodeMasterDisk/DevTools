@@ -323,5 +323,11 @@
       "t": "Tailwind Components",
       "d": "Components for tailwind",
       "l": "https://tailwindcomponents.com/"
+    },
+ 
+    {
+      "t": "Monaco Editor",
+      "d": "VisualStudio code editor for web",
+      "l": "https://microsoft.github.io/monaco-editor/index.html"
     }
 ]
