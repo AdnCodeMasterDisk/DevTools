@@ -89,5 +89,11 @@
         "t": "Vue examples",
         "d": "Colection Examples in vue",
         "l": "https://vuejsexamples.com/"
+    },
+    
+    {
+        "t": "Crud electron",
+        "d": "Cómo escoger, leer, guardar, eliminar o crear un archivo",
+        "l": "https://ourcodeworld.co/articulos/leer/106/como-escoger-leer-guardar-eliminar-o-crear-un-archivo-con-electron-framework"
     }
 ]
