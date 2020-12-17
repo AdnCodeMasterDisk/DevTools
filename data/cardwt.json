@@ -341,5 +341,11 @@
       "t": "tailblocks",
       "d": "Tail blocks",
       "l": "https://mertjf.github.io/tailblocks/"
+    },
+ 
+    {
+      "t": "quasar.dev",
+      "d": "Full frameworw for aplications",
+      "l": "https://quasar.dev/"
     }
 ]
