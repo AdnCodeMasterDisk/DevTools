@@ -329,5 +329,11 @@
       "t": "Monaco Editor",
       "d": "VisualStudio code editor for web",
       "l": "https://microsoft.github.io/monaco-editor/index.html"
+    },
+ 
+   {
+      "t": "Nicepage",
+      "d": "Free templates web and inspiration",
+      "l": "https://nicepage.com/"
     }
 ]
