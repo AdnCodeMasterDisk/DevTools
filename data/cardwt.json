@@ -359,5 +359,11 @@
       "t": "Uigarage",
       "d": "Daily handpicked UI inspiration & patterns",
       "l": "https://uigarage.net/"
+    },
+ 
+    {
+      "t": "Ultralig",
+      "d": "Next-Generation HTML Renderer (load html in deskapp)",
+      "l": "https://ultralig.ht/"
     }
 ]
