@@ -365,5 +365,11 @@
       "t": "Ultralig",
       "d": "Next-Generation HTML Renderer (load html in deskapp)",
       "l": "https://ultralig.ht/"
+    },
+ 
+    {
+      "t": "php seccion",
+      "d": "Documentacion secciones php",
+      "l": "https://www.php.net/manual/es/function.session-destroy.php"
     }
 ]
