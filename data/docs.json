@@ -95,5 +95,11 @@
         "t": "Crud electron",
         "d": "Cómo escoger, leer, guardar, eliminar o crear un archivo",
         "l": "https://ourcodeworld.co/articulos/leer/106/como-escoger-leer-guardar-eliminar-o-crear-un-archivo-con-electron-framework"
+    },
+    
+    {
+      "t": "php seccion",
+      "d": "Documentacion secciones php",
+      "l": "https://www.php.net/manual/es/function.session-destroy.php"
     }
 ]
