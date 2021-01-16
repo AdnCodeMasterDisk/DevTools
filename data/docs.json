@@ -101,5 +101,11 @@
       "t": "php seccion",
       "d": "Documentacion secciones php",
       "l": "https://www.php.net/manual/es/function.session-destroy.php"
+    },
+    
+    {
+      "t": "php articulos",
+      "d": "Documentacion y ejemplos de php",
+      "l": "https://programacion.net/articulos/php"
     }
 ]
