@@ -371,5 +371,11 @@
       "t": "php seccion",
       "d": "Documentacion secciones php",
       "l": "https://www.php.net/manual/es/function.session-destroy.php"
+    },
+ 
+    {
+      "t": "cubic-bezier",
+      "d": "cubic bezier animations css",
+      "l": "https://cubic-bezier.com"
     }
 ]
